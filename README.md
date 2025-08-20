@@ -20,7 +20,7 @@ Instead of juggling tabs for flights, hotels, and reviews, Expedia inside ChatGP
 **Overview:**  
 Turn ChatGPT into your personal astrology assistant. With NextAstrology, you can:  
 - Generate accurate **birth charts** with the [Birth Chart Calculator](https://www.nextastrology.com/birth-chart-calculator),  
-- Compare cosmic chemistry using the [Synastry Chart Calculator](https://www.nextastrology.com/synastry-chart-calculator),  
+- Explore **astrology compatibility** using the [Synastry Chart Calculator](https://www.nextastrology.com/synastry-chart-calculator),
 - Explore relationship potential through a detailed **compatibility score**, analyzing Fundamental Match, Core Connection, Life Alignment, Emotional Flow, Long-Term Potential, and Challenges & Tension via the [Love Compatibility Calculator](https://www.nextastrology.com/love-compatibility-calculator).  
 
 **Why it’s awesome:**  
